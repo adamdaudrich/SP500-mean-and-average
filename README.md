@@ -1,8 +1,7 @@
-This is my code from a University of Michigan course on python
+From a University of Michigan course on python
 
-Readlines separates the file into lines of strings
-the .split() method inserts commas
-indexing is used to isolate a date range may 2016 through
-a for loop populates the lists
+readlines(), .strip(), .split(), max(), sum(), len() 
 
-The sum of the desired column 
+for loop # 1 populates the initialized lists
+for loop # 2 translates string data into float from the sp500 list
+for loop # 3 translates string data into float from the interest list 
